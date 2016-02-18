@@ -1,0 +1,25 @@
+#testbutton{
+vertical-align: middle;
+width: 400px;
+}
+
+#masterTable{
+
+}
+
+input#del{
+background: url(Xicon.png) no-repeat;
+	border: none;
+	width: 62px;
+	height: 62px;
+
+}
+
+th, td{
+	
+	padding: 10px;
+}
+
+#tabTitle{
+	text-align: center;
+}
