@@ -1,8 +1,9 @@
+/*
 #testbutton{
 vertical-align: middle;
 width: 400px;
 }
-
+*/
 #masterTable{
 
 }
@@ -10,8 +11,8 @@ width: 400px;
 input#del{
 background: url(Xicon.png) no-repeat;
 	border: none;
-	width: 62px;
-	height: 62px;
+	width: 32px;
+	height: 32px;
 
 }
 
